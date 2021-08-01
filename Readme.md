@@ -35,10 +35,7 @@
 <img align="left" alt="Skill" src="https://user-images.githubusercontent.com/69337392/123622852-620a4b80-d82a-11eb-92c1-a59399144ee2.png" />
 <img align="left" alt="Skill" src="https://user-images.githubusercontent.com/69337392/123623679-5e2af900-d82b-11eb-91e6-7c9a018dea9b.png" />
 <img align="left" alt="Skill" src="https://user-images.githubusercontent.com/69337392/123623690-62571680-d82b-11eb-83e1-7b0403c8bd27.png" />
-<img align="left" alt="Skill" src="https://user-images.githubusercontent.com/69337392/123624261-fcb75a00-d82b-11eb-8de0-695eb717793d.png" />
-<img align="left" alt="Skill" src="https://user-images.githubusercontent.com/69337392/123624345-12c51a80-d82c-11eb-9b44-a10dd7f7abaa.png" />
-<img align="left" alt="Skill" src="https://user-images.githubusercontent.com/69337392/123624400-22446380-d82c-11eb-90e3-425f43bdb721.png" />
-<img align="left" alt="Skill" src="https://user-images.githubusercontent.com/69337392/123623789-7e5ab800-d82b-11eb-88ac-7d7704791e2d.png" />
+
 <p>&nbsp;</p>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
