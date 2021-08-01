@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://www.google.com/search?q=spotify+image&rlz=1C1GCEA_enIN861IN861&sxsrf=ALeKk01XWv1_bxEJiMSu4srERlTsTn-xaA:1627849752512&tbm=isch&source=iu&ictx=1&fir=6h5UZLrFanVvyM%252CVDx0nlKaSw04NM%252C_&vet=1&usg=AI4_-kSi-7RcNGLop7CpKKvjQxEIm59YVQ&sa=X&sqi=2&ved=2ahUKEwjl0Pvx1JDyAhXhmuYKHacsBEcQ9QF6BAgOEAE#imgrc=6h5UZLrFanVvyM" alt="Spotify Playing" width="350" />](https://open.spotify.com/playlist/2RHp1Qx4fEKFBChuvGK59j?si=475d09ee73c94827)
+[<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wired.com%2F2016%2F02%2Fyoure-probably-listening-to-spotify-wrong-be-a-power-user%2F&psig=AOvVaw3uw_bh_e-7d-Fzh5MHf9Dw&ust=1627936270062000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjciavVkPICFQAAAAAdAAAAABAD" alt="Spotify Playlist" width="350" />](https://open.spotify.com/playlist/2RHp1Qx4fEKFBChuvGK59j?si=475d09ee73c94827)
 
 ### Connect with me:
 
