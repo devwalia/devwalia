@@ -22,8 +22,8 @@
 
 <br />
 
-<img align="left" alt="ME" src="https://user-images.githubusercontent.com/69337392/123616629-181e6700-d824-11eb-82d2-4c16e64903a9.png">
-<img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/?username=devwalia" />
+
+
 
 ### Languages and Tools:
 
@@ -53,7 +53,7 @@
 
 ---
 
-
+<img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/?username=devwalia" />
 
 [instagram]: https://instagram.com/devwalia_
 [linkedin]: https://linkedin.com/in/dev-walia-92a0571a7
