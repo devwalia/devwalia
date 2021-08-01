@@ -1,14 +1,15 @@
 ### Hi there, I'm DEV WALIA  👋
-
+##Microsoft Learn Student Ambassador | Student at Amity University(2019-2023)
 
 
 ## I'm a Developer !!
 
-- 🔭 I'm a Btech C.S.E student at Amity University!
-- 🌱 I’m currently learning AI & ML | Web Dev | 
+- 🔭I am pursuing my B.tech in Computer Science Specialisation in artificial intelligence and machine learning at Amity University
+- 🌱 I am skilled in Java, C, C++, Python programming language and have a keen interest in neural network and deep learning technologies
+     | Web Development | Image and video editing | Graphic designing
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to edit videos and images
+- ⚡ Fun fact: I love underrated music.
 
 ### Spotify Playing 🎧
 
