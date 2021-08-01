@@ -1,10 +1,13 @@
 ### Hi there, I'm DEV WALIA  👋
 
-## Microsoft Learn Student Ambassador | OWASP MEMBER | C.S.E Student at Amity University(2019-2023)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=OPEN%20SOURCE%20FOR%20THE%20WIN!;Join%20EddieHub%20Community;Collaboration%201st,%20Code%202nd.;Community%20make%20things%20easier;You%20don't%20have%20to%20be%20an%20expert%20to%20teach;Let's%20support%20each%20other;&center=true&width=470&height=45"></a>
 </p>
+
+
+
+## Microsoft Learn Student Ambassador | OWASP MEMBER | C.S.E Student at Amity University(2019-2023)
 
 
 <div align="center">
