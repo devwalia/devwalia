@@ -53,7 +53,16 @@
 
 ---
 
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
 <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/?username=devwalia" />
+
+</details>
+
+
 
 [instagram]: https://instagram.com/devwalia_
 [linkedin]: https://linkedin.com/in/dev-walia-92a0571a7
