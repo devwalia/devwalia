@@ -22,6 +22,9 @@
 
 <br />
 
+<img align="left" alt="ME" src="https://user-images.githubusercontent.com/69337392/123616629-181e6700-d824-11eb-82d2-4c16e64903a9.png">
+<img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/?username=devwalia" />
+
 ### Languages and Tools:
 
 <img align="left" alt="Skill" src="https://user-images.githubusercontent.com/69337392/123623775-7a2e9a80-d82b-11eb-9f49-e3d78bf460f9.png" />
