@@ -8,31 +8,44 @@
 </p>
 
 ---
+🔧 **Technical Development Engineer @ Omega Systems**
 
-💼 **AI-Enhanced Software Developer @ Travel Right Now Global**
-🔧 **Former Technical Support Engineer @ Omega Systems**
+💼 **Former AI-Enhanced Software Developer @ Travel Right Now Global**
+
 📊 **MSc in Data & Computational Science, UCD (Ireland)**
+
+
 💡 **Machine Learning Data Analyst (Team Lead) | Helpdesk Engineer | Full Stack Curious**
-🌍 Currently based in Ireland | Indian Passport | Stamp 1G Holder
+
+🌍 Currently based in Ireland 
 
 ---
 
 ### 🛠️ Tech Stack
 
 * **Languages:** Python, Java, Shell, SQL, C++, JavaScript
+  
 * **Databases:** PostgreSQL, MySQL, SQL Server
+  
 * **Tools & Platforms:** AWS, Docker, Kafka (MSK), Jenkins, Git, Linux
+  
 * **Data:** Apache Spark, Pandas, Scikit-Learn, Jupyter
+  
 * **DevOps & Monitoring:** ELK Stack, CloudWatch, Grafana
+  
 * **Others:** Postman, OpenAPI, REST APIs, Bash Scripting
 
 ---
 
 ### 🚀 Current Focus
 
+
 * Automating testing and deployment workflows
+  
 * Kafka stream optimization using AWS MSK
+  
 * Real-time monitoring pipelines for gaming infrastructure
+  
 * Writing OpenAPI plugins & prompt engineering
 
 ---
