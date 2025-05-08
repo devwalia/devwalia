@@ -15,7 +15,7 @@
 📊 **MSc in Data & Computational Science, UCD (Ireland)**
 
 
-💡 **Machine Learning Data Analyst (Team Lead) | Helpdesk Engineer | Full Stack Curious**
+💡 **Machine Learning Data Analyst (Team Lead) | Software Engineer | Full Stack Curious**
 
 🌍 Currently based in Ireland 
 
