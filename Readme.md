@@ -61,8 +61,8 @@
 
 ### 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dev-walia/)
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat-square\&logo=instagram\&logoColor=white)](https://www.instagram.com/dev.walia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/devwalia)
+
 
 ---
 
