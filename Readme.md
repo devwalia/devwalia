@@ -8,9 +8,9 @@
 </p>
 
 ---
-🔧 **Technical Development Engineer @ Omega Systems**
+💼 **Technical Development Engineer @ Omega Systems**
 
-💼 **Former AI-Enhanced Software Developer @ Travel Right Now Global**
+🔧 **Former AI-Enhanced Software Developer @ Travel Right Now Global**
 
 📊 **MSc in Data & Computational Science, UCD (Ireland)**
 
